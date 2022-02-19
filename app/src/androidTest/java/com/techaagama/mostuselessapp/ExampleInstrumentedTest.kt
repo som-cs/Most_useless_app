@@ -1,4 +1,4 @@
-package com.example.mostuselessapp
+package com.techaagama.mostuselessapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.example.mostuselessapp
+package com.techaagama.mostuselessapp
 
 import org.junit.Test
 

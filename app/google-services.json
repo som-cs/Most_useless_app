@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "28893135260",
+    "project_id": "just-another-useless-app",
+    "storage_bucket": "just-another-useless-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28893135260:android:11cf48d2b09d024df50859",
+        "android_client_info": {
+          "package_name": "com.techaagama.justanotheruselessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28893135260-ipoo53i44aqknbg6kk17442su02nnqik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZzdSflMtbe8M93oVwmYArTk-7OPPyLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28893135260-ipoo53i44aqknbg6kk17442su02nnqik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28893135260:android:ad431c6750ab6ff7f50859",
+        "android_client_info": {
+          "package_name": "com.techaagama.mostuselessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28893135260-ipoo53i44aqknbg6kk17442su02nnqik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZzdSflMtbe8M93oVwmYArTk-7OPPyLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28893135260-ipoo53i44aqknbg6kk17442su02nnqik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

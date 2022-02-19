@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Most useless app</string>
+    <string name="app_name">Useless app</string>
     <string name="MainText">So this is just a simple app. I just started learning Android development and also decided to document how I move ahead with this. SO this is one of the many apps that are scheduled every week. Trying to keep consistent. Do check the app info for more things you want to know. Also all the apps will be open source so feel free to critique me. Any and all feedback is appreciated.</string>
     <string name="heading">Chapter 1</string>
     <string name="thankYou">Thank you tagging along the ride.\n Hope you enjoy it.</string>
-    <string name="madeBy">Made with 3 by awwsom</string>
+    <string name="madeBy">Made with love by awwsom</string>
 </resources>
